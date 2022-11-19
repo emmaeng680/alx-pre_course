@@ -1,2 +1,2 @@
 My first readme
-COding is awesome and really powerful.
+Coding is awesome and really powerful.
